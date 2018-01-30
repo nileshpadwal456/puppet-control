@@ -27,11 +27,11 @@ mod 'ntp',
  :git => 'https://github.com/nileshpadwal456/puppet-ntp.git',
  :ref => 'master'
 
-mod 'role',
- :git => 'https://github.com/nileshpadwal456/puppet-role.git',
- :ref => 'master'
+#mod 'role',
+# :git => 'https://github.com/nileshpadwal456/puppet-role.git',
+# :ref => 'master'
 
-mod 'profile',
- :git => 'https://github.com/nileshpadwal456/puppet-profile.git',
- :ref => 'master'
+#mod 'profile',
+# :git => 'https://github.com/nileshpadwal456/puppet-profile.git',
+# :ref => 'master'
 
