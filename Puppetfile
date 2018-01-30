@@ -30,9 +30,9 @@ mod 'ntp',
 
 mod 'role',
  :git => 'https://github.com/nileshpadwal456/puppet-role.git',
- :ref => 'master'
+ :ref => 'development'
 
 mod 'profile',
  :git => 'https://github.com/nileshpadwal456/puppet-profile.git',
- :ref => 'master'
+ :ref => 'development'
 
