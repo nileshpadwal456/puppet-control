@@ -20,7 +20,7 @@ mod "puppetlabs/java",        '1.6.0'
 #
 
 mod 'ssh',
- :git => 'https://github.com/nileshpadwal456/puppet-module-ssh.git'
+ :git => 'https://github.com/nileshpadwal456/puppet-module-ssh.git',
  :ref => 'master'
 
 mod 'ntp',
