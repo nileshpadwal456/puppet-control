@@ -1,0 +1,8 @@
+---
+profile::nginx::vhosts:
+ - 'fdqn' : 'nileshpadwal4562.mylabserver.com'
+   'port' : 80
+   'server_aliases' : ''
+ - 'fqdn' : 'nileshpadwal4562b.mylabserver.com'
+   'port' : 80
+    'server_aliases' : 'nileshpadwal4562b1.mylabserver.com'
