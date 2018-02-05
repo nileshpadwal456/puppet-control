@@ -37,6 +37,6 @@ mod 'profile',
  :git => 'https://github.com/nileshpadwal456/puppet-profile.git',
  :ref => 'master'
 
-mod 'nginx',
-  :git => 'git@github.com:nileshpadwal456/puppet-nginx.git',
-  :ref => 'master'
+#mod 'nginx',
+#  :git => 'git@github.com:nileshpadwal456/puppet-nginx.git',
+#  :ref => 'master'
